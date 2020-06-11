@@ -1,0 +1,455 @@
+body{
+
+}
+
+.head{
+	font-family: "Montserrat","游ゴシック",YuGothic,"ヒラギノ角ゴ ProN W3","Hiragino Kaku Gothic ProN","メイリオ",Meiryo,sans-serif;
+	background-image:url(../img/key_3_82a45717-b40b-40e7-b82d-14ebbe11f34b_1000x.jpg);
+	background-size:cover;
+	width:100%;
+	height:938px;
+}
+
+.toplink{
+	color:black;
+	font-size:18px;
+	margin-right:30px;
+	position:relative;
+	top:15px;
+	left:25px;
+}
+
+.link2{
+	color:black;
+	font-size:18px;
+	margin-right:30px;
+	position:relative;
+	float:right;
+	top:15px;	
+}
+
+.daterow{
+	position:relative;
+	top:88vh;
+}
+
+.date{
+	text-align:center;
+	color:white;
+	display:block;
+}
+
+.info{
+	font-family: "Montserrat","游ゴシック",YuGothic,"ヒラギノ角ゴ ProN W3","Hiragino Kaku Gothic ProN","メイリオ",Meiryo,sans-serif;
+}
+
+.toptext{
+	margin-top:80px;
+	font-size:42px;
+	font-weight:bold;
+	letter-spacing: 0.15em;
+	text-align:center;
+}
+
+.imgrow{
+	margin-top:100px;
+}
+
+.leftimg{
+	width:92%;
+	display:block;
+	margin:0 auto;
+}
+
+.rightimg{
+	width:82%;
+	display:block;
+	margin:0 auto;
+	position:relative;
+	top:200px;	
+}
+
+.img1{
+	width:650px;
+	display:block;
+	margin:70px auto 40px;
+	height:auto;
+	position:relative;
+	left:125px;
+}
+
+.text1{
+	display:inline-block;
+	font-size:22px;
+	font-weight:550;
+	border-bottom:1px solid black;
+}
+
+.img2{
+	width:660px;
+	height:460px;
+	display:block;
+	margin:0 auto;
+	justify-content: center;
+}
+
+.text2{
+	display:inline-block;
+	font-size:20px;
+	font-weight:550;
+	border-bottom:1px solid black;
+	margin-top:30px;
+	margin-left:30px;
+}
+
+.text22{
+	display:inline-block;
+	font-size:20px;
+	font-weight:550;
+	margin-left:30px;
+}
+
+.item{
+	margin-top:150px;
+	width:100%;
+	font-family: "Montserrat","游ゴシック",YuGothic,"ヒラギノ角ゴ ProN W3","Hiragino Kaku Gothic ProN","メイリオ",Meiryo,sans-serif;	
+	background:#FFFAF0;
+	padding-bottom:120px;
+}
+
+.itemtitle{
+	width:150px;
+	position:relative;
+	bottom:20px;
+	left:130px;
+}
+
+.pro1{
+	width:100%;
+	margin-top:70px;
+}
+
+.pro2{
+	width:260px;
+	margin-left:25px;
+	position: relative;
+	bottom:8px;
+}
+
+.order{
+	float:right;
+	border:1px solid black;
+	padding:2px 4px;
+	margin-top:20px;
+	background:white;
+	color:black;
+	font-size:13px;
+}
+
+.or1{
+	font-size:22px;
+	color:skyblue;
+	margin-left:25px;
+	margin-bottom:10px;
+}
+
+.or2{
+	margin-top:10px;
+	margin-left:25px;
+	font-size:15px;
+}
+
+.price{
+	display: inline-block;
+	margin-left:25px;
+	font-size:26px;
+	font-weight:550;
+}
+
+.sum{
+	display: inline-block;	
+	width:160px;
+	height:35px;
+	margin-left:30px;
+	border:1px solid black;
+	line-height:35px;
+	background:white;
+	color:#333333;
+	text-align:center;
+}
+
+.mi{
+	float:left;
+	position:relative;
+	top:8px;
+	left:7px;
+}
+
+.pl{
+	float:right;
+	position:relative;
+	top:8px;
+	right:7px;
+}
+
+.orbtn{
+	background: #DAA520;
+	margin-left:25px;
+	margin-top:5px;	
+	width:275px;
+	height:40px;
+}
+
+.ortext{
+	text-align:center;
+	color:white;
+	line-height:40px;
+	font-weight:550;
+}
+
+.about{
+	margin-top:70px;
+}
+
+.aboutbox{
+	width:100%;
+	height:auto;
+	border:1px solid black;
+	background:white;
+	padding:15px 14px;
+}
+
+.ab1{
+	font-size:14px;
+	font-weight:bold;
+	margin-bottom:0;
+}
+
+.ab2{
+	font-size:14px;
+	font-weight:550;
+	margin-bottom:20px;
+}
+
+.ab3{
+	font-size:14px;
+	font-weight:550;
+	margin-bottom:0;
+}
+
+
+.gift{
+	width:100%;
+	display:block;
+	margin:0 auto;
+	font-family: "Montserrat","游ゴシック",YuGothic,"ヒラギノ角ゴ ProN W3","Hiragino Kaku Gothic ProN","メイリオ",Meiryo,sans-serif;	
+	background:#FFF0F5;
+	padding-bottom:120px;
+}
+
+.gifttop{
+	text-align:center;
+	font-weight:700;
+	letter-spacing: 0.05em;
+	margin-top:50px;
+	font-size:32px;
+}
+
+.giftimg{
+	width:620px;
+	height:auto;
+	display:block;
+	margin:0 auto;
+}
+
+.ginfo{
+	font-size:14px;
+	text-align:center;
+	font-weight:700;
+	margin-top:35px;
+}
+
+.glink{
+	background:#993300;
+	display:block;
+	width:180px;
+	height:35px;
+	margin:0 auto;
+}
+
+.gl{
+	color:white;
+	font-weight:bold;
+	text-align:center;
+	line-height:35px;
+
+}
+
+.tips{
+	width:100%;
+	display:block;
+	margin:0 auto;
+	font-family: "Montserrat","游ゴシック",YuGothic,"ヒラギノ角ゴ ProN W3","Hiragino Kaku Gothic ProN","メイリオ",Meiryo,sans-serif;	
+	background:white;
+	padding-bottom:85px;
+}
+
+.ti1{
+	position:relative;
+	margin-top:30px;
+	font-size:22px;
+	font-weight:bold;
+	left:130px;	
+}
+
+.ti2{
+	position:relative;
+	font-size:16px;
+	font-weight:600;
+	left:130px;	
+}
+
+.tiprow{
+	margin-top:35px;
+}
+
+.timg{
+	width:95%;
+	display:block;
+	margin:0 auto;
+}
+
+.th{
+	text-align:center;
+	font-size:15px;
+	font-weight:bold;
+	margin-top:20px;
+}
+
+.td{
+	text-align:center;
+	font-size:15px;
+	font-weight:550;
+}
+
+.chef{
+	font-family: "Montserrat","游ゴシック",YuGothic,"ヒラギノ角ゴ ProN W3","Hiragino Kaku Gothic ProN","メイリオ",Meiryo,sans-serif;		
+	background-color: #0A0930;
+	padding-bottom:45px;
+}
+
+.chefimg{
+	display:block;
+	margin:60px auto;
+	width:90px;
+}
+
+.cimg{
+	width:660px;
+	display:block;
+	margin:0 auto;
+}
+
+.ch1{
+	color:white;
+	margin-top:30px;
+	font-size:18px;
+	font-weight:bold;
+	padding-left:40px;
+}
+
+
+.ch2{
+	color:white;
+	margin-top:30px;
+	font-weight:550;
+	font-size:15px;
+	padding-left:40px;
+	padding-right:40px;
+}
+
+.sign{
+	margin-top:30px;
+	padding-left:40px;
+	width:280px;
+}
+
+.name{
+	padding-left:40px;
+	font-size:13px;
+	margin-top:20px;
+	color:white;
+}
+
+.chinfo{
+	padding-left:40px;
+	padding-right:200px;
+	font-size:13px;
+	margin-top:20px;
+	color:white;
+}
+
+.twicon{
+	padding-left:40px;
+	font-size:20px;
+	margin-right:20px;
+	color:white;
+}
+
+.inicon{
+	font-size:20px;
+	margin-right:20px;
+	color:white;	
+}
+
+.liicon{
+	font-size:20px;
+	margin-right:20px;
+	color:white;	
+}
+
+.foot{
+	font-family: "Montserrat","游ゴシック",YuGothic,"ヒラギノ角ゴ ProN W3","Hiragino Kaku Gothic ProN","メイリオ",Meiryo,sans-serif;	
+	padding-top:45px;	
+}
+
+.line{
+	width:540px;
+	margin:0 auto;
+	display:block;
+}
+
+.linkt{
+	text-align:center;
+	font-size:15px;
+	margin-top:20px;
+	font-weight:550;
+}
+
+.flogo{
+	display:block;
+	margin:70px auto 0;
+	width:60px;
+}
+
+.linkrow{
+	padding-left:50px;
+	padding-right:50px;
+}
+
+
+.flink{
+	margin-top:15px;
+	display:block;
+	font-size:14px;
+	text-align:center;
+	color:black;
+}
+
+.copy{
+	font-size:13px;
+	display:block;
+	text-align:center;
+	margin-top:20px;
+	color:#555555;
+}
